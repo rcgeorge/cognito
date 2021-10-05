@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.example.incognito",
-    "sha256_cert_fingerprints":
-    ["95:07:FB:AB:B8:2B:D9:4D:F4:9C:08:44:98:77:97:81:AF:18:15:0D:72:10:AD:CC:66:B6:82:92:E4:C3:03:67"]
-  }
-}]
